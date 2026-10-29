@@ -1,8 +1,8 @@
 # 你好，我是qyqy
 
-> 我做本地优先的 AI 系统：让模型能记住、能自洽，也能被评测。
+> 我是李卓凡（qyqy）。我做本地优先的 AI 系统：让模型能记住、能自洽，也能被评测。
 
-GitHub：[@qyqy-1109](https://github.com/qyqy-1109) · [个人主页](https://qyqy-1109.github.io/)
+GitHub：[@qyqy-1109](https://github.com/qyqy-1109) · [个人主页（李卓凡）](https://qyqy-1109.github.io/)
 
 目前主要在做 **旧识 / old-acquaintance**：一个跑在本机的陪伴型对话助手。重点不是聊天界面，而是四层记忆系统——原文、滚动摘要、事实短句 + 向量、遗忘/作废，各自有明确的写入权限和退场方式。
 
