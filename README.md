@@ -14,6 +14,8 @@ GitHub：[@qyqy-1109](https://github.com/qyqy-1109) · [个人主页](https://qy
 
 ## 精选项目
 
+两件主要作品，和一次 Electron 桌面壳研究。
+
 ### 旧识 · old-acquaintance
 
 一个本机陪伴型对话助手，带四层记忆、写路径治理、人格卡片、跨会话搜索和可视化记忆页。
@@ -35,9 +37,9 @@ GitHub：[@qyqy-1109](https://github.com/qyqy-1109) · [个人主页](https://qy
 
 [Repository](https://github.com/qyqy-1109/quote-lens)
 
-### DeepSeek Harness Desktop
+### Electron 研究 · deepseek-harness-desktop
 
-一个自包含的 Windows 桌面壳（Electron）：自动启动 `dsh web`，并带一套轻量的 Codex 风格主题插件。
+一次桌面壳研究：验证自包含的 Windows 壳（Electron）如何自动启动本地 `dsh web` 服务，并试验一套 Codex 风格的主题机制。
 
 [Repository](https://github.com/qyqy-1109/deepseek-harness-desktop)
 
