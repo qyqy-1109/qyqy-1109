@@ -1,8 +1,8 @@
-# 你好，我是 qyqy-1109
+# 你好，我是李卓凡
 
 > 我做本地优先的 AI 系统：让模型能记住、能自洽，也能被评测。
 
-[个人主页](https://qyqy-1109.github.io/) · [GitHub](https://github.com/qyqy-1109)
+GitHub：[@qyqy-1109](https://github.com/qyqy-1109) · [个人主页](https://qyqy-1109.github.io/)
 
 目前主要在做 **旧识 / old-acquaintance**：一个跑在本机的陪伴型对话助手。重点不是聊天界面，而是四层记忆系统——原文、滚动摘要、事实短句 + 向量、遗忘/作废，各自有明确的写入权限和退场方式。
 
@@ -43,7 +43,7 @@
 
 ### 其他仓库
 
-`ecc-file-sharing` 等更多公开仓库会自动列在 [个人主页](https://qyqy-1109.github.io/) 的 Repositories 区域。
+更多公开仓库会自动列在 [个人主页](https://qyqy-1109.github.io/) 的 Repositories 区域。
 
 ## 工具
 
