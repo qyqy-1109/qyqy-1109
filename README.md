@@ -1,6 +1,6 @@
 # 你好，我是qyqy
 
-> 我是李卓凡（qyqy）。我做本地优先的 AI 系统：让模型能记住、能自洽，也能被评测。
+> 我做本地优先的 AI 系统：让模型能记住、能自洽，也能被评测。
 
 GitHub：[@qyqy-1109](https://github.com/qyqy-1109) · [个人主页（李卓凡）](https://qyqy-1109.github.io/)
 
